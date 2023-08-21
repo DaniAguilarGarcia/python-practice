@@ -20,3 +20,5 @@ def Plotvec1(u, z, v):
     plt.xlim(-2, 2)#set the xlim to left(-2), right(2)
 
 Plotvec1(u, z, v)
+
+#https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/jupyterlite/latest/lab/index.html?notebook_url=https%3A%2F%2Fcf-courses-data.s3.us.cloud-object-storage.appdomain.cloud%2FIBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork%2Flabs%2FModule%25205%2FPY0101EN-5-1-Numpy1D.ipynb
