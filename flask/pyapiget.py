@@ -1,5 +1,5 @@
 #handling an API with python, generic
-
+#request.get() method to make a GET request to the API
 import requests
 
 api_url = 'https://api.example.com/data'
