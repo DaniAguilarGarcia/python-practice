@@ -1,4 +1,5 @@
 from flask import Flask, request
+app = Flask("practic")
 @app.route("/book/<isbn>")
 def get_author(isbn):
     res = request.get("https://openlibrary.org/isbn/{escape(isbn)}.JSON")
